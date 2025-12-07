@@ -1,4 +1,6 @@
-running command
+running command:
+
+
 ./scripts/run_inference.py inference.input_pdb=xxx 'contigmap.contigs=[A1-166/0 190-190]' 'ppi.hotspot_res=[xxx]' inference.num_designs=100 denoiser.noise_scale_ca=0.5 denoiser.noise_scale_frame=0 \
   inference.output_prefix=/home/eric/proj/RFdiffusion/xxx \
   dfire.enable=true \
